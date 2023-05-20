@@ -3,7 +3,7 @@
   "name": "Kviknet",
   "url": "https://www.kviknet.dk",
   "ipv6": true,
-  "comment": "Kviknet understøtter IPv6. IPv6 på COAX forbindelser understøttes ikke af TDC.",
+  "comment": "Kviknet understøtter IPv6 (en /48 per kunde). IPv6 på COAX forbindelser understøttes ikke af TDC.",
   "partial": true,
   "private": true,
   "sources": [
